@@ -1,0 +1,2 @@
+# dict
+all info
